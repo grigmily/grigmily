@@ -2,7 +2,7 @@
 - 👀 I’m interested in reliable code
 - 🌱 I’m currently learning JS-FE
 - 💞️ I’m looking to collaborate on business projects and complex FE designs.
-- 📫 How to reach me in Discord
+- 📫 How to reach me in Discord #1126 
 
 <!---
 grigmily/grigmily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
