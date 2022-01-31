@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @grigmily
-- 👀 I’m interested in reliable code
+- 👀 I’m interested in certain code
 - 🌱 I’m currently learning JS-FE
-- 💞️ I’m looking to collaborate on business projects and complex FE designs.
+- 💞️ I’m looking to collaborate on business projects and some FE designs.
 - 📫 How to reach me in Discord #1126 
 
 <!---
